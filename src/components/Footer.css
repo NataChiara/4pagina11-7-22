@@ -1,0 +1,13 @@
+footer {
+    background-color: lightcoral;
+    color: rgb(20, 56, 155);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 7%;
+    width: 100%;
+    font-size: 24px;
+    position: fixed;
+    bottom: 0;
+
+}

@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: lightcoral;
+    color: rgb(20, 56, 155);
+    display: flex;
+    align-items: center;
+    height: 10%;
+}
+
+.header h1 {
+    margin-left: 40px;
+}
+
+.header nav {
+    display: flex;
+    margin-left: auto;
+    
+}
+
+.header nav ul {
+    display: flex;
+    
+}
+
+.header nav ul li {
+    list-style: none;
+    border: dotted 1.5px rgb(20, 56, 155);
+    margin: 15px;
+    padding: 10px;
+}
+.header nav ul li a {
+    text-decoration-line: none;
+}
